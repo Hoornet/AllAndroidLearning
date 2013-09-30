@@ -3,6 +3,8 @@
 
     <string name="app_name">"All Android Learning "</string>
     <string name="action_settings">Settings</string>
-    <string name="hello_world">Hello world!</string><string name="welcome_string">Ta app vključuje vse žive zamisljive preizkuse kode</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="welcome_string">Ta app vključuje vse žive zamisljive preizkuse kode</string>
+    <string name="alarmManager">AlarmManager</string>
 
 </resources>

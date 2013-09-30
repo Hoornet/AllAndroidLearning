@@ -17,8 +17,8 @@
     <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:text="New Button"
-            android:id="@+id/button"
+            android:text="@string/alarmManager"
+            android:id="@+id/buttonAlarmManager"
             android:layout_below="@+id/textView"
             android:layout_alignLeft="@+id/textView"
             android:layout_marginTop="21dp"/>
@@ -28,8 +28,8 @@
             android:layout_height="wrap_content"
             android:text="New Button"
             android:id="@+id/button2"
-            android:layout_below="@+id/button"
-            android:layout_alignRight="@+id/button"
+            android:layout_below="@+id/buttonAlarmManager"
+            android:layout_alignRight="@+id/buttonAlarmManager"
             android:layout_marginTop="16dp"/>
 
     <Button
